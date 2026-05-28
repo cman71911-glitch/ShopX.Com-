@@ -1,0 +1,6 @@
+{
+  "name": "shopX",
+  "description": "An Amazon-like e-commerce clone featuring a rich product listing, shopping cart, interactive product details, and a powerful Admin Panel to configure product prices and randomly generate mock inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
